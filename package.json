@@ -1,0 +1,13 @@
+{
+  "name": "disband-mythic-plus",
+  "main": "server.js",
+  "version": "0.0.1",
+  "author": "Guillaume Beaumont",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.8.1"
+  },
+  "engines": {
+    "node": "10.x"
+  }  
+}
